@@ -183,6 +183,8 @@ export default developer;
   <img src="https://img.shields.io/badge/GitHub-EIMAN--RAZA-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" />
 </a>
 
+[![DevConnect](https://devconnectplatform.com/api/badge/eimanraza)](https://devconnectplatform.com/u/eimanraza?ref=badge)
+
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&center=true&width=500&height=35&duration=3000&pause=2000&color=8b949e&vCenter=true&size=14&lines=Whether+you're+a+recruiter%2C+startup%2C+or+fellow+dev...;...my+inbox+is+always+open+%F0%9F%92%8C;Let's+build+something+great+together+%F0%9F%9A%80" />
