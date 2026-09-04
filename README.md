@@ -1,8 +1,8 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0d2137,100:0d1117&height=200&section=header&text=Eiman%20Raza&fontSize=52&fontColor=58a6ff&fontAlignY=42&desc=MERN%20Stack%20Developer%20%C2%B7%20Flutter%20%C2%B7%20CS%20Student&descSize=18&descAlignY=65&descColor=8b949e&animation=fadeIn)](https://capsule-render.vercel.app/)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0d2137,100:0d1117&height=200&section=header&text=Eiman%20Raza&fontSize=52&fontColor=58a6ff&fontAlignY=42&desc=MERN%20Stack%20Developer%20%C2%B7%20Building%20Things%20That%20Matter&descSize=18&descAlignY=65&descColor=8b949e&animation=fadeIn)](https://capsule-render.vercel.app/)
 
-[![typing-svg](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&center=true&width=650&height=50&duration=2800&pause=1400&color=58a6ff&vCenter=true&size=19&weight=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Flutter+%26+Mobile+Developer+%F0%9F%93%B1;Building+apps+that+actually+ship+%E2%9C%85;Available+for+Internships+%26+Junior+Roles+%F0%9F%9F%A2;CS+Student+%40+COMSATS+University+Islamabad)](https://readme-typing-svg.demolab.com)
+[![typing-svg](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&center=true&width=650&height=50&duration=2800&pause=1400&color=58a6ff&vCenter=true&size=19&weight=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Turning+ideas+into+working+software+%E2%9C%A8;Clean+code+%C2%B7+Polished+UIs+%C2%B7+Real+results;Available+for+Internships+%26+Junior+Roles+%F0%9F%9F%A2;Open+to+Remote+%26+On-site+Opportunities)](https://readme-typing-svg.demolab.com)
 
 <br/>
 
@@ -64,7 +64,7 @@ export default developer;
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
-<div align="center">
+<div align="left">
 
 **🌐 Frontend**
 
