@@ -32,7 +32,7 @@ const developer = {
 export default developer;
 ```
 
-I'm a **6th-semester BSCS student** who builds production-ready full-stack web apps and cross-platform mobile apps. I care about clean code, polished UIs, and software that actually ships — not just prototypes that look good in screenshots.
+I'm a **6th-semester BSCS student** who builds production-ready MERN-stack web apps. I care about clean code, polished UIs, and software that actually ships — not just prototypes that look good in screenshots.
 
 Projects like **AdFlow Pro** (multi-role gig marketplace with JWT auth) and the **Drone Delivery System** (full MERN stack with admin dashboard) show my drive to engineer complete, deployable solutions. Actively seeking **internships and junior roles** at software houses across Pakistan and remote-first teams globally.
 
@@ -53,7 +53,7 @@ Projects like **AdFlow Pro** (multi-role gig marketplace with JWT auth) and the 
 
 **Frontend & Mobile**
 
-[![](https://skillicons.dev/icons?i=react,flutter,js,ts,html,css,tailwind,dart&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,flutter,js,ts,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
 **Backend**
 
@@ -77,10 +77,10 @@ Projects like **AdFlow Pro** (multi-role gig marketplace with JWT auth) and the 
 
 | | |
 |---|---|
-| 🔭 Currently building | Full-stack MERN apps & Flutter mobile apps |
+| 🔭 Currently building | Full-stack MERN apps & webs|
 | 🌱 Currently learning | Next.js · Docker · AWS basics · PostgreSQL |
 | 🤝 Open to | Internships · Junior roles · Open source collab |
-| 💬 Ask me about | MERN stack · Flutter · JWT auth · REST APIs |
+| 💬 Ask me about | MERN stack · JWT auth · REST APIs |
 | 📫 Reach me | e1man.raza05@gmail.com |
 | ⚡ Fun fact | I debug APIs at midnight so users don't have to |
 
