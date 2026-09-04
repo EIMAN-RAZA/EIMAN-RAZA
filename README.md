@@ -158,19 +158,7 @@ export default developer;
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EIMAN-RAZA&theme=github_dark" />
-&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EIMAN-RAZA&theme=github_dark" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EIMAN-RAZA&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9&stroke=0d1117" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EIMAN-RAZA&theme=github_dark" />
 
 </div>
 
