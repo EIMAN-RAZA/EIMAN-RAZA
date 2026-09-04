@@ -36,7 +36,7 @@ const developer = {
   mobile      : "Flutter · Dart · Android Studio",
   university  : "COMSATS University Islamabad, Vehari Campus",
   cgpa        : 3.15,
-  semester    : "6th",
+  semester    : "7th",
   status      : "available_for_hire 🟢",
   lookingFor  : ["Internships", "Junior Dev Roles", "Remote Teams"],
   contact     : "e1man.raza05@gmail.com",
@@ -133,7 +133,7 @@ export default developer;
 | 🔭 **Currently building** | MERN Stack Webs |
 | 📖 **Currently learning** | System Design |
 | 🤝 **Open to** | Internships · Junior roles · Open source collab |
-| 💬 **Ask me about** | MERN stack · Flutter · JWT auth · REST APIs |
+| 💬 **Ask me about** | MERN stack · JWT auth · REST APIs |
 | 📫 **Reach me** | e1man.raza05@gmail.com |
 | 🌍 **Location** | Pakistan (open to remote) |
 | ⚡ **Fun fact** | I debug APIs at midnight so users don't have to 🌙 |
