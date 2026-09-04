@@ -9,13 +9,12 @@
 <p>
   <img src="https://img.shields.io/badge/COMSATS%20University%20Islamabad-0d1117?style=for-the-badge&logo=graduation-cap&logoColor=58a6ff&labelColor=161b22&color=161b22" />
   <img src="https://img.shields.io/badge/BS%20Computer%20Science-3fb950?style=for-the-badge&logoColor=white&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Semester%206%20%7C%20CGPA%203.15-d29922?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Semester%207%20%7C%20CGPA%203.15-d29922?style=for-the-badge&labelColor=161b22" />
   <img src="https://img.shields.io/badge/Graduating%202027-f78166?style=for-the-badge&labelColor=161b22" />
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=EIMAN-RAZA&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/EIMAN-RAZA?style=for-the-badge&color=3fb950&labelColor=0d1117&label=FOLLOWERS" />
   <img src="https://img.shields.io/badge/STATUS-Available%20for%20Hire%20%F0%9F%9F%A2-3fb950?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -47,7 +46,7 @@ export default developer;
 
 <br/>
 
-> 🧑‍💻 I'm a **6th-semester BSCS student** building production-ready web and mobile apps.
+> 🧑‍💻 I'm a **7th-semester BSCS student** building production-ready web and mobile apps.
 > I care about **clean code, polished UIs, and software that actually ships** — not just prototypes.
 >
 > Projects like **AdFlow Pro** (multi-role gig marketplace with JWT auth) and the **Drone Delivery System**
@@ -79,15 +78,19 @@ export default developer;
 
 [![](https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark)](https://skillicons.dev)
 
+**🧠 DSA & Problem Solving**
+
+[![](https://skillicons.dev/icons?i=python,cpp&theme=dark)](https://skillicons.dev)
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Structures-f78166?style=for-the-badge&logo=thealgorithms&logoColor=white&labelColor=161b22" />
+<img src="https://img.shields.io/badge/Algorithms-d29922?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=161b22" />
+
 **🔧 Tools & Platforms**
 
 [![](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,pycharm&theme=dark)](https://skillicons.dev)
 
 **📖 Currently Learning**
 
-[![](https://skillicons.dev/icons?i=ts&theme=dark)](https://skillicons.dev)
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript%20(Advanced)-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=161b22" />
 <img src="https://img.shields.io/badge/System%20Design-ff6b6b?style=for-the-badge&logo=buffer&logoColor=white&labelColor=161b22" />
 
 </div>
@@ -119,8 +122,8 @@ export default developer;
 
 | | |
 |:---|:---|
-| 🔭 **Currently building** | MERN Stack apps & Flutter mobile apps |
-| 📖 **Currently learning** | TypeScript (Advanced) · System Design |
+| 🔭 **Currently building** | MERN Stack Webs |
+| 📖 **Currently learning** | System Design |
 | 🤝 **Open to** | Internships · Junior roles · Open source collab |
 | 💬 **Ask me about** | MERN stack · Flutter · JWT auth · REST APIs |
 | 📫 **Reach me** | e1man.raza05@gmail.com |
