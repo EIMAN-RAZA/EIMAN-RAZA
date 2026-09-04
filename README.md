@@ -22,7 +22,9 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f2937,100:0d1117&height=2&section=header&reversal=false" width="100%"/>
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> About Me
 
@@ -54,7 +56,9 @@ export default developer;
 >
 > 📍 Actively seeking **internships and junior roles** across Pakistan and remote-first teams globally.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f2937,100:0d1117&height=2&section=header&reversal=false" width="100%"/>
+</div>
 
 ---
 
@@ -95,7 +99,9 @@ export default developer;
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f2937,100:0d1117&height=2&section=header&reversal=false" width="100%"/>
+</div>
 
 ---
 
@@ -112,7 +118,9 @@ export default developer;
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f2937,100:0d1117&height=2&section=header&reversal=false" width="100%"/>
+</div>
 
 ---
 
@@ -132,25 +140,22 @@ export default developer;
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f2937,100:0d1117&height=2&section=header&reversal=false" width="100%"/>
+</div>
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=EIMAN-RAZA&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EIMAN-RAZA&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EIMAN-RAZA&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9&stroke=0d1117" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EIMAN-RAZA&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9&stroke=0d1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EIMAN-RAZA&theme=github_dark" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
