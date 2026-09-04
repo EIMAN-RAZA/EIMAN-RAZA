@@ -146,12 +146,12 @@ export default developer;
 ---
 
 ## 📊 GitHub Stats
-[![stats](https://github-stats-extended.vercel.app/api?username=EIMAN-RAZA&show_icons=true&hide_border=true&bg_color=FBEAEC&title_color=B5495B&icon_color=B5495B&text_color=3B1F24)](https://github.com/EIMAN-RAZA)
-[![top-langs](https://github-stats-extended.vercel.app/api/top-langs/?username=EIMAN-RAZA&layout=compact&hide_border=true&bg_color=FBEAEC&title_color=B5495B&text_color=3B1F24)](https://github.com/EIMAN-RAZA)
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=EIMAN-RAZA&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true&include_all_commits=true" /> &nbsp; <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EIMAN-RAZA&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
-[![streak](https://streak-stats.demolab.com/?user=EIMAN-RAZA&hide_border=true&background=FBEAEC&ring=B5495B&fire=C97B84&currStreakLabel=B5495B&text_color=3B1F24)](https://streak-stats.demolab.com)
+<br/><br/>
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=EIMAN-RAZA&bg_color=FBEAEC&color=3B1F24&line=B5495B&point=D98A98&area=true&hide_border=true)](https://github.com/EIMAN-RAZA)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EIMAN-RAZA&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9&stroke=0d1117" /> </div> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <div align="center">
 
