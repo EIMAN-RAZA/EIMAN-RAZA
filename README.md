@@ -153,9 +153,9 @@ export default developer;
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EIMAN-RAZA&theme=github_dark&hide=jupyter%20notebook" />
-&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EIMAN-RAZA&theme=github_dark&utcOffset=5" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EIMAN-RAZA&theme=github_dark" />
 
 <br/>
 
