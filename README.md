@@ -143,6 +143,7 @@ export default developer;
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f2937,100:0d1117&height=2&section=header&reversal=false" width="100%"/>
 </div>
+
 ---
 
 ## 📊 GitHub Stats
