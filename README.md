@@ -91,7 +91,7 @@ export default developer;
 
 **🔧 Tools & Platforms**
 
-[![](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,pycharm&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,github,vscode,vercel,pycharm&theme=dark)](https://skillicons.dev)
 
 **📖 Currently Learning**
 
