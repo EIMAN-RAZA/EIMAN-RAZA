@@ -40,7 +40,7 @@ const developer = {
   status      : "available_for_hire 🟢",
   lookingFor  : ["Internships", "Junior Dev Roles", "Remote Teams"],
   contact     : "e1man.raza05@gmail.com",
-  funFact     : "I debug APIs at midnight so users don't have to 🌙",
+  funFact     : " Currently debugging life and code simultaneously",
 };
 
 export default developer;
