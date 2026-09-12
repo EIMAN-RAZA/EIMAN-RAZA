@@ -15,7 +15,6 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=EIMAN-RAZA&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/badge/STATUS-Available%20for%20Hire%20%F0%9F%9F%A2-3fb950?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 </div>
