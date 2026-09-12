@@ -192,4 +192,4 @@ export default developer;
 
 <br/>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0d2137,100:0d1117&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=58a6ff&fontAlignY=65&animation=twinkling)](https://capsule-render.vercel.app/)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,70:0d2137,100:0d1117&height=120&section=footer&text=Let's%20Build%20Something%20Great&fontSize=20&fontColor=58a6ff&fontAlignY=65)](https://capsule-render.vercel.app/)
