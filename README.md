@@ -36,7 +36,6 @@ const developer = {
   university  : "COMSATS University Islamabad, Vehari Campus",
   cgpa        : 3.15,
   semester    : "7th",
-  status      : "available_for_hire 🟢",
   lookingFor  : ["Internships", "Junior Dev Roles", "Remote Teams"],
   contact     : "e1man.raza05@gmail.com",
   funFact     : " Currently debugging life and code simultaneously",
