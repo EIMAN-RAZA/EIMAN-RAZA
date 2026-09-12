@@ -152,13 +152,15 @@ export default developer;
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EIMAN-RAZA&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EIMAN-RAZA&theme=github_dark&utcOffset=5" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EIMAN-RAZA&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EIMAN-RAZA&theme=github_dark" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EIMAN-RAZA&theme=github_dark" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EIMAN-RAZA&theme=github-compact&hide_border=true&bg_color=0d1117" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EIMAN-RAZA&theme=github_dark" />
 
 </div>
 
