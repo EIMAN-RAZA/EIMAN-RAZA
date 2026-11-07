@@ -46,7 +46,7 @@ export default developer;
 
 <br/>
 
-> 🧑‍💻 I'm a **7th-semester BSCS student** building production-ready web and mobile apps.
+> I'm a **7th-semester BSCS student** building production-ready web and mobile apps.
 > I care about **clean code, polished UIs, and software that actually ships** — not just prototypes.
 >
 > Projects like **AdFlow Pro** (multi-role gig marketplace with JWT auth) and the **Drone Delivery System**
